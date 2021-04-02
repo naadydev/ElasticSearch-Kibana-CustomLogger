@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpNr+tTnKlCW5qeosWJkYE+PbGst8oBhfYBzHbH34Vx1KF3ifIOqhR0++ReIV86pI5VtFvvoAIj6O5vXAxcvJg==",
+  "success": true,
+  "projectFilePath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.13\\microsoft.extensions.configuration.binder.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.13\\microsoft.extensions.dependencyinjection.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.13\\microsoft.extensions.dependencyinjection.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.logging\\3.1.13\\microsoft.extensions.logging.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.13\\microsoft.extensions.logging.abstractions.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.options\\3.1.13\\microsoft.extensions.options.3.1.13.nupkg.sha512",
+    "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.13\\microsoft.extensions.primitives.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\Custom.Logger\\Custom.Logger.csproj": {}
+  },
+  "projects": {
+    "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\Custom.Logger\\Custom.Logger.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\Custom.Logger\\Custom.Logger.csproj",
+        "projectName": "Custom.Logger",
+        "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\Custom.Logger\\Custom.Logger.csproj",
+        "packagesPath": "C:\\Users\\nady\\.nuget\\packages\\",
+        "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\Custom.Logger\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nady\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj": {
+                "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
+        "projectName": "ElasticSearch.Helper",
+        "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
+        "packagesPath": "C:\\Users\\nady\\.nuget\\packages\\",
+        "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split - combine\\ElasticSearch.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nady\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

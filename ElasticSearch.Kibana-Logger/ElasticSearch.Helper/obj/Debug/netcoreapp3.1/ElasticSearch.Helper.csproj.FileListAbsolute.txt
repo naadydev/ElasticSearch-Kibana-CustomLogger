@@ -1,0 +1,17 @@
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\bin\Debug\netcoreapp3.1\ElasticSearch.Helper.deps.json
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\bin\Debug\netcoreapp3.1\ElasticSearch.Helper.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\bin\Debug\netcoreapp3.1\ElasticSearch.Helper.pdb
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.AssemblyInfoInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.AssemblyInfo.cs
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.csproj.CoreCompileInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.pdb
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.csprojAssemblyReference.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\bin\Debug\netcoreapp3.1\ElasticSearch.Helper.deps.json
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\bin\Debug\netcoreapp3.1\ElasticSearch.Helper.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\bin\Debug\netcoreapp3.1\ElasticSearch.Helper.pdb
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.AssemblyInfoInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.AssemblyInfo.cs
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.csproj.CoreCompileInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\ElasticSearch.Helper\obj\Debug\netcoreapp3.1\ElasticSearch.Helper.pdb

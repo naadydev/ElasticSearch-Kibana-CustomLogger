@@ -1,0 +1,17 @@
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\bin\Debug\netcoreapp3.1\Custom.Logger.deps.json
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\bin\Debug\netcoreapp3.1\Custom.Logger.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\bin\Debug\netcoreapp3.1\Custom.Logger.pdb
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.AssemblyInfoInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.AssemblyInfo.cs
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.csproj.CoreCompileInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.pdb
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.Kibana\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.csprojAssemblyReference.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.AssemblyInfoInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.AssemblyInfo.cs
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.csproj.CoreCompileInputs.cache
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\obj\Debug\netcoreapp3.1\Custom.Logger.pdb
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\bin\Debug\netcoreapp3.1\Custom.Logger.deps.json
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\bin\Debug\netcoreapp3.1\Custom.Logger.dll
+C:\NADY\POC\ElasticSearch.Kibana\ElasticSearch.KibanaV2\Custom.Logger\bin\Debug\netcoreapp3.1\Custom.Logger.pdb

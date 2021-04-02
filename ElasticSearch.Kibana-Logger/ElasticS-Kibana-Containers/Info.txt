@@ -1,0 +1,34 @@
+https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker
+
+$> docker-compose up -d
+-----------------------------
+Elasticsearch -->> http://localhost:9200
+Kibana --------->> http://localhost:5601
+
+https://github.com/serilog/serilog-sinks-elasticsearch
+
+https://www.youtube.com/watch?v=0acSdHJfk64
+
+===============
+Kibana 
+specify an index before you can view the logged data.
+
+Create index pattern:
+
+to get the index name >> click Index Management http://localhost:5601/app/management/kibana/indexPatterns
+>> click the Discover link in the navigation.
+>> poc-elasticsearch-kibana-serilog-development-2021-03
+>> can type in the entire index, or use wildcards "poc-elasticsearch-kibana-serilog-*"
+and click create index pattern 
+>> select the @timestamp field as the time filter field name and click the Create index pattern button.
+>> You can now view the logs by clicking the Discover link in the navigation pane.
+
+
+
+http://localhost:5601/app/management/kibana/indexPatterns/create
+==========================================================
+Logging Custom Messages
+========================
+ // https://www.humankode.com/asp-net-core/logging-with-elasticsearch-kibana-asp-net-core-and-docker
+ // https://stackoverflow.com/questions/55916750/serilog-in-azure-functions
+

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ElasticSearch.Helper", "ElasticSearch.Helper\ElasticSearch.Helper.csproj", "{F85C816D-C8E9-47B1-83A6-D55E405CFE9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API.Test", "API.Test\API.Test.csproj", "{1AB052A3-1A28-4BA0-8031-53230C9278DB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElasticS-Kibana-Containers", "ElasticS-Kibana-Containers", "{4D550386-AFD2-45AB-904D-A1F96424FB10}"
+	ProjectSection(SolutionItems) = preProject
+		ElasticS-Kibana-Containers\docker-compose.yml = ElasticS-Kibana-Containers\docker-compose.yml
+		ElasticS-Kibana-Containers\Info.txt = ElasticS-Kibana-Containers\Info.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom.Logger", "Custom.Logger\Custom.Logger.csproj", "{C188F1DA-C168-4D41-87DC-C55EC62079E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85C816D-C8E9-47B1-83A6-D55E405CFE9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85C816D-C8E9-47B1-83A6-D55E405CFE9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85C816D-C8E9-47B1-83A6-D55E405CFE9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85C816D-C8E9-47B1-83A6-D55E405CFE9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AB052A3-1A28-4BA0-8031-53230C9278DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AB052A3-1A28-4BA0-8031-53230C9278DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AB052A3-1A28-4BA0-8031-53230C9278DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AB052A3-1A28-4BA0-8031-53230C9278DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C188F1DA-C168-4D41-87DC-C55EC62079E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C188F1DA-C168-4D41-87DC-C55EC62079E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C188F1DA-C168-4D41-87DC-C55EC62079E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C188F1DA-C168-4D41-87DC-C55EC62079E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73734E61-555F-4BE3-A938-AC2BDF1C8B5A}
+	EndGlobalSection
+EndGlobal
