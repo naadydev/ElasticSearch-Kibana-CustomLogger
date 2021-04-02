@@ -14,8 +14,8 @@
     $> docker-compose up -d
 ```
 
-## Elasticsearch -->> http://localhost:9200
-## Kibana --------->> http://localhost:5601
+#### Elasticsearch -->> http://localhost:9200
+#### Kibana --------->> http://localhost:5601
 
-# 1- Create Index Pattern -->> http://localhost:5601/app/management/kibana/indexPatterns
-# 2- Discover -------------->> http://localhost:5601/app/discover
+#### 1- Create Index Pattern -->> http://localhost:5601/app/management/kibana/indexPatterns
+#### 2- Discover -------------->> http://localhost:5601/app/discover
