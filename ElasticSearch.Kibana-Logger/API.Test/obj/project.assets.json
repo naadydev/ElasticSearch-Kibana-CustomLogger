@@ -563,11 +563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\API.Test\\API.Test.csproj",
+      "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\API.Test\\API.Test.csproj",
       "projectName": "API.Test",
-      "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\API.Test\\API.Test.csproj",
+      "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\API.Test\\API.Test.csproj",
       "packagesPath": "C:\\Users\\nady\\.nuget\\packages\\",
-      "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\API.Test\\obj\\",
+      "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\API.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nady\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -584,11 +584,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj": {
-              "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj"
+            "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\Custom.Logger.csproj": {
+              "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\Custom.Logger.csproj"
             },
-            "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj": {
-              "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj"
+            "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj": {
+              "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj"
             }
           }
         }

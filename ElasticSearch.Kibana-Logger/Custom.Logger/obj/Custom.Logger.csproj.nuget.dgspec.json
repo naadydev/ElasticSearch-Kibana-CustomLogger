@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj": {}
+    "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\Custom.Logger.csproj": {}
   },
   "projects": {
-    "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj": {
+    "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\Custom.Logger.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj",
+        "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\Custom.Logger.csproj",
         "projectName": "Custom.Logger",
-        "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj",
+        "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\Custom.Logger.csproj",
         "packagesPath": "C:\\Users\\nady\\.nuget\\packages\\",
-        "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\obj\\",
+        "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nady\\AppData\\Roaming\\NuGet\\NuGet.Config",

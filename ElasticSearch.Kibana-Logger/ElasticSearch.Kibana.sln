@@ -10,10 +10,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ElasticS-Kibana-Containers", "ElasticS-Kibana-Containers", "{4D550386-AFD2-45AB-904D-A1F96424FB10}"
 	ProjectSection(SolutionItems) = preProject
 		ElasticS-Kibana-Containers\docker-compose.yml = ElasticS-Kibana-Containers\docker-compose.yml
-		ElasticS-Kibana-Containers\Info.txt = ElasticS-Kibana-Containers\Info.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom.Logger", "Custom.Logger\Custom.Logger.csproj", "{C188F1DA-C168-4D41-87DC-C55EC62079E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custom.Logger", "Custom.Logger\Custom.Logger.csproj", "{C188F1DA-C168-4D41-87DC-C55EC62079E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

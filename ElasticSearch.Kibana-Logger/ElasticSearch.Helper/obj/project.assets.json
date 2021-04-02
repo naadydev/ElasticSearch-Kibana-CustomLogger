@@ -347,11 +347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
+      "projectUniqueName": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
       "projectName": "ElasticSearch.Helper",
-      "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
+      "projectPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
       "packagesPath": "C:\\Users\\nady\\.nuget\\packages\\",
-      "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\ElasticSearch.Helper\\obj\\",
+      "outputPath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\ElasticSearch.Helper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nady\\AppData\\Roaming\\NuGet\\NuGet.Config",

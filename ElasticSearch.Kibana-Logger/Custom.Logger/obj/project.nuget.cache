@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qpNr+tTnKlCW5qeosWJkYE+PbGst8oBhfYBzHbH34Vx1KF3ifIOqhR0++ReIV86pI5VtFvvoAIj6O5vXAxcvJg==",
+  "dgSpecHash": "Szb5oXZxnB+wmvdPPNVO8H9XFCHRA4ZODWy7CLHEilM/UHOS/gZVhWjBUjpS5P2eYkFhXWvfL8v/AuJGgyUzfQ==",
   "success": true,
-  "projectFilePath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\Custom.Logger\\Custom.Logger.csproj",
+  "projectFilePath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\Custom.Logger\\Custom.Logger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.13\\microsoft.extensions.configuration.3.1.13.nupkg.sha512",
     "C:\\Users\\nady\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.13\\microsoft.extensions.configuration.abstractions.3.1.13.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dwyWXk7DLKbIVx3Y3rdGfPNk39QWFLHen7mWRIpKcSVEnJoXomboZKSZnyOrTmkc3v0EkDFhecs+6n2TR+TS1w==",
+  "dgSpecHash": "ZgxoJ0TqDjcxwnNtqyHDzDhkukCjAHLMXadWA4rjiKzOfJfC3YTT1rDra9Y0FDp4ITZUgLMO7heFji5RU2XDhA==",
   "success": true,
-  "projectFilePath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.KibanaV3-Split\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
+  "projectFilePath": "C:\\NADY\\POC\\ElasticSearch.Kibana\\ElasticSearch.Kibana-Logger\\ElasticSearch.Helper\\ElasticSearch.Helper.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nady\\.nuget\\packages\\elasticsearch.net\\7.12.0\\elasticsearch.net.7.12.0.nupkg.sha512",
     "C:\\Users\\nady\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
