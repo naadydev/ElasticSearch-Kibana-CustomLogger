@@ -6,4 +6,203 @@ Kibana --------->> http://localhost:5601
 
 1- Create Index Pattern http://localhost:5601/app/management/kibana/indexPatterns
 2- Discover >> http://localhost:5601/app/discover
+==============
+1- Install Kibana:
+2- Open config/kibana.yml :
+Set:
+server.host: “localhost”
+server.port: 5601
+server.name: “your-hostname”
+elasticsearch.hosts: [“http://localhost:9200”]
+
+3- Run bin/kibana (or bin\kibana.bat on Windows)
+4- Point your browser at http://localhost:5601
+-----
+Setup Kibana as a Service
+To get Kibana running as a Windows service – we will use a little tool called NSSM (the Non-Sucking Service Manager).
+
+Open a Command Prompt
+Run: cd C:\Users\Administrator\Downloads\nssm-2.24\win64
+Run: nssm install Kibana
+Select kibana.bat file in C:\Program Files\Elastic\kibana-7.5.0\bin
+Run: nssm start kibana
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
