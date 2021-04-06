@@ -14,6 +14,8 @@ server.host: “localhost”
 server.port: 5601
 server.name: “your-hostname”
 elasticsearch.hosts: [“http://localhost:9200”]
+elasticsearch.username:  
+elasticsearch.password: 
 
 3- Run bin/kibana (or bin\kibana.bat on Windows)
 4- Point your browser at http://localhost:5601
